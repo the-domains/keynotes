@@ -1,0 +1,28 @@
+name: Keynotes
+favicon: null
+layout_spectrum: 0.05631482438184321
+typography_spectrum: 0.007285962114110589
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.01468160399235785
+  lightness: 0.23057660553604364
+  saturation: 0.3113331920467317
+  rhythmicContrast: 0.9073529259767383
+purpose: []
